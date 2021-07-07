@@ -1,2 +1,2 @@
 # impratical_python_book
-primeiro commit 
+projeto da disciplina de gestão e configuração 
